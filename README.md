@@ -1,2 +1,11 @@
-# MSDS-capstone
-Capstone project for Merrimack College Masters in Data Science
+# Working Project Title
+* To be determined
+
+## Background
+* To be completed
+
+## Research question
+# To be completed
+
+## Hypothesis & Predictions
+* To be completed
