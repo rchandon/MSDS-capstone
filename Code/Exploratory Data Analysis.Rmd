@@ -1,6 +1,6 @@
 ---
 title: "Capstone R Work"
-author: "Barrett Viator"
+author: "Barrett Viator and Ray Chandonnet"
 date: "2025-07-26"
 output: pdf_document
 ---
